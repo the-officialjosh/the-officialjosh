@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @the-officialjosh
-- 👀 I’m interested in javascript and css
-- 🌱 I’m currently learning html
+- 👋 Hi, I’m Onyema Joshua
+- 👀 I’m interested in Javascript and CSS3
+- 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on any web based project but basically looking to learn
-- 📫 How to reach me the_official_joshy_ on Instagram
+- 📫 How to reach me the.official.josh on Instagram
 
 <!---
 the-officialjosh/the-officialjosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
