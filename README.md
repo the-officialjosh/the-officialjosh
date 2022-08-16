@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Onyema Joshua
-- 💕I'm a front end developer at Brainstorm IT Soutions
-- 👀 I’m good  in HTML, CSS and SCSS
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on any web based project but basically looking to learn
+- 💕 Front end developer at Brainstorm IT Soutions
+- 👀 Proficient  in HTML, CSS and SCSS
+- 🌱 Currently learning Javascript and React
+- 💞️ Looking to collaborate on any web based project but basically looking to learn
 
 
 <!---
