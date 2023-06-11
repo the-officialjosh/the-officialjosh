@@ -19,13 +19,19 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
-![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
-![WebGL](https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl)
 
 - 🎨 &nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+
+- 🕹️ &nbsp;
+![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
+![WebGL](https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+
+- 🔧 &nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 - 🗄️ &nbsp; 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
