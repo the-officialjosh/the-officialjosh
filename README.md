@@ -1,4 +1,12 @@
-<h2>Hey there! I'm Onyema Joshua Chidera.</h2>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;The Official Josh&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Joshua+Onyema;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br><br><br><br>
 
 <h3>About Me</h3>
 
@@ -48,7 +56,7 @@
 
   <br/>
 
-*This week Coding Stats*
+*This Week's Coding Stats (Updates Daily)*
 <!--START_SECTION:waka-->
 
 ```txt
@@ -63,8 +71,10 @@ JSON         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-officialjosh&layout=compact&theme=radical" /> -->
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-officialjosh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
+<!--<p align="center">
+ <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-officialjosh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-officialjosh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-officialjosh&theme=tokyonight" alt="mystreak"/>
 
