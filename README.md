@@ -55,19 +55,6 @@
 
   <br/>
 
-*This Week's Coding Stats (Updates Daily)*
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   18 hrs 47 mins  ██████████████████▒░░░░░░   73.55 %
-SCSS         2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-HTML         2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-CSS          56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-TypeScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-```
-
-<!--END_SECTION:waka-->
-
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-officialjosh&layout=compact&theme=radical" /> -->
 <!--<p align="center">
