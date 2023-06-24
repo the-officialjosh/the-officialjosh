@@ -70,11 +70,11 @@ TypeScript   43 mins         ▓░░░░░░░░░░░░░░░░
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-officialjosh&layout=compact&theme=radical" /> -->
-<p align="center">
+<!--<p align="center">
  <a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-officialjosh&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-officialjosh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
- 
+  -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-officialjosh&theme=tokyonight" alt="mystreak"/>
 
