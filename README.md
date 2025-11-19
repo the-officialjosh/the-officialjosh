@@ -3,66 +3,84 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Joshua+Onyema;Software+Engineer+%7C+Frontend+%2B+Backend;Welcome+to+my+GitHub!&font=sofia%20pro&color=fff&center=true&width=500&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Joshua+Onyema;Welcome+to+my+profile!;Have+a+look+around!&font=sofia%20pro&color=ffffff&center=true&width=400&height=100">
 </p>
-
-<h3>About Me</h3>
-
-- Graduate student in Software Engineering at Concordia University.
-- Backend and full-stack developer with strong experience in **Java, Spring Boot, React, and TypeScript**.
-- Skilled in **3D interactive experiences** with Three.js and React Three Fiber.
-- Participant in the **NASA Space Apps Challenge**, building immersive space visualization tools.
-- Passionate about clean code, system design, and high-performance applications.
-- Always learning, building, and improving.
 
 ---
 
-<h3>🛠 &nbsp;Tech Stack</h3>
+## 👋 About Me
 
-<!-- WEB -->
-- 🌐 &nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript">
-<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
-<img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js">
-<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
+- Software Engineer with a strong interest in full-stack development and system design  
+- Experience with Java, React, Spring Boot, and 3D web experiences  
+- Always learning, building, and experimenting with new tools  
+- Focused on writing clean and reliable code  
+- I enjoy teaching, mentoring, and creating helpful content
 
-<!-- DESIGN -->
-- 🎨 &nbsp;
-<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=sass">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css">
+---
 
-<!-- 3D & GRAPHICS -->
-- 🕹️ &nbsp;
-<img src="https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js">
-<img src="https://img.shields.io/badge/-React%20Three%20Fiber-333333?style=flat">
-<img src="https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl">
-<img src="https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender">
+## 🛠 Tech Stack
 
-<!-- BACKEND -->
-- 🔧 &nbsp;
-<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java">
-<img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot">
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/C-333333?style=flat&logo=c" />
+</p>
 
-<!-- DATABASES -->
-- 🗄️ &nbsp;
-<img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
-<img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql">
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb">
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/SCSS/SASS-333333?style=flat&logo=sass" />
+  <img src="https://img.shields.io/badge/Three.js-333333?style=flat&logo=three.js" />
+</p>
 
-<!-- TOOLS -->
-- 🔧 &nbsp;
-<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
-<img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker">
-<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown">
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-333333?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=springboot" />
+  <img src="https://img.shields.io/badge/REST_APIs-333333?style=flat" />
+</p>
 
-<!-- EDITORS -->
-- 🖥️ &nbsp;
-<img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+### **Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Supabase-333333?style=flat&logo=supabase" />
+</p>
 
-<br/>
+### **DevOps / Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/CI/CD-333333?style=flat&logo=githubactions" />
+</p>
 
-<!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=the-officialjosh&theme=monokai" alt="GitHub Streak" />
+### **Testing**
+<p>
+  <img src="https://img.shields.io/badge/JUnit-333333?style=flat&logo=junit5" />
+  <img src="https://img.shields.io/badge/Mockito-333333?style=flat" />
+  <img src="https://img.shields.io/badge/PyTest-333333?style=flat&logo=pytest" />
+  <img src="https://img.shields.io/badge/Jest-333333?style=flat&logo=jest" />
+</p>
+
+### **Other Relevant Skills**
+<p>
+  <img src="https://img.shields.io/badge/Blender-333333?style=flat&logo=blender" />
+  <img src="https://img.shields.io/badge/After_Effects-333333?style=flat&logo=adobeaftereffects" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-333333?style=flat&logo=adobepremierepro" />
+  <img src="https://img.shields.io/badge/UI/UX-333333?style=flat&logo=figma" />
+  <img src="https://img.shields.io/badge/Version_Control-333333?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Content_Creation-333333?style=flat&logo=youtube" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=the-officialjosh&theme=monokai" alt="GitHub Streak" />
+</p>
