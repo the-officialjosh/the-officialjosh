@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">✩ The Official Josh ✩</h1>
+  <h1 align="center">✩ Joshua Onyema ✩</h1>
 </p>
 
 <p align="center">
