@@ -129,6 +129,4 @@ public class JoshuaOnyema implements SoftwareEngineer {
 
 <sub>Building software that scales.</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=the-officialjosh&color=000000&style=flat-square)
-
 </div>
