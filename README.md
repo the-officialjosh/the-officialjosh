@@ -123,7 +123,7 @@ public class JoshuaOnyema implements SoftwareEngineer {
 
 | Experience | Projects | Location |
 |:---:|:---:|:---:|
-| **8+ Years** | **50+ Projects** | **Montreal, CA** |
+| **4+ Years** | **20+ Projects** | **Montreal, CA** |
 
 ---
 
