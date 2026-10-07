@@ -2,7 +2,7 @@
 
 # Joshua Onyema
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer+%7C+Montreal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Software+Developer+%7C+Montreal)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joshuaonyema.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-onyema)
